@@ -2,8 +2,8 @@ import * as firebase from "firebase";
 
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyAuNd3kiMhrLIo_xkdGOCv6vGvUrCx18PU",
-    authDomain: "elentify1.firebaseapp.com",
+    apiKey: "your api-key",
+    authDomain: "your auth domain",
     projectId: "elentify1",
     storageBucket: "elentify1.appspot.com",
     messagingSenderId: "1014691015070",
